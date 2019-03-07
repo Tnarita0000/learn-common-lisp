@@ -1,11 +1,11 @@
 ;; Function's statement
 ;;
-;; -- Definition --
+;; -- 構文 --
 ;; (defun name (parameter*)
 ;;   "Optional documentation text"
 ;;   body-form*)
 ;;
-;; --   Call   --
+;; -- 呼び出し --
 ;; (name (parameter*))
 
 ;; ===============
